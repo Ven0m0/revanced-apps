@@ -1,7 +1,8 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
-parallel-jobs = 1
+parallel-jobs = 4
 rebuild-all-on-update = true # set this to false to rebuild only the apps that have updates
-
+remove-rv-integrations-checks = true
+compression-level = 9
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/avisek/revanced-apps/blob/main/CONFIG.md for more detailed explanations
 
@@ -19,6 +20,9 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 riplib = true
+#version = "auto"
+#version = "latest"
+version = "beta"
 
 [YouTube-Music-Extended]
 app-name = "YouTube Music"
@@ -31,6 +35,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 riplib = true
+version = "beta"
 
 [Google-Photos]
 app-name = "Google Photos"
@@ -40,6 +45,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Spotify]
-arch = "all"
+arch = "arm64-v8a"
+build-mode = "apk"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
+version = "latest"
