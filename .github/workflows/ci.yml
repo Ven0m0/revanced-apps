@@ -1,8 +1,7 @@
 name: CI
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 12 * * *'
+  schedule: [{cron: "0 12 * * *"}]
 
 jobs:
   check:
@@ -13,7 +12,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - name: Should build?
         id: should_build
         shell: bash
