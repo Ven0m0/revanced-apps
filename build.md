@@ -2,9 +2,9 @@
   
 | App  | APK<br/><sup>Non-Root</sup> | Module<br/><sup>Root</sup> |  
 | :--- | :-------------------------- | :------------------------- |  
-| **YouTube**<br/><sup>`20.13.41` `extended`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/1/youtube-revanced-extended-v20.13.41-arm64-v8a.apk) | - |  
-| **YouTube Music**<br/><sup>`8.31.51` `extended`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/1/youtube-music-revanced-extended-v8.31.51-arm64-v8a.apk) | - |  
-| **Google Photos**<br/><sup>`7.45.0.804174563`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/1/google-photos-revanced-v7.45.0.804174563-arm64-v8a.apk) | - |  
+| **YouTube**<br/><sup>`20.25.37` `extended`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/2/youtube-revanced-extended-v20.25.37-arm64-v8a.apk) | - |  
+| **YouTube Music**<br/><sup>`8.30.54` `extended`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/2/youtube-music-revanced-extended-v8.30.54-arm64-v8a.apk) | - |  
+| **Spotify**<br/><sup>`9.0.76.1115`</sup> | [**APK**<br/><sup>universal</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/2/spotify-revanced-v9.0.76.1115-all.apk) | - |  
 
 ## 📌 Notes
   
@@ -21,5 +21,8 @@ Patches: anddea/patches-3.12.0.rvp
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.12.0)
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.36.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.36.0)  
+Patches: ReVanced/patches-5.37.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.37.0)  
+
+Unchanged:  
+Patches: anddea/patches-3.12.0.rvp    
