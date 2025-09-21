@@ -22,8 +22,8 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 riplib = true
 #version = "auto"
 #version = "latest"
-#version = "20.21.37"
-version = "20.25.37"
+version = "20.21.37"
+#version = "20.25.37"
 
 [YouTube-Music-Extended]
 app-name = "YouTube Music"
@@ -36,7 +36,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 riplib = true
-version = "8.30.54"
+#version = "8.30.54"
+version = "beta"
 
 [Spotify]
 #arch = "arm64-v8a"
