@@ -2,9 +2,9 @@
   
 | App  | APK<br/><sup>Non-Root</sup> | Module<br/><sup>Root</sup> |  
 | :--- | :-------------------------- | :------------------------- |  
-| **YouTube**<br/><sup>`20.21.37` `extended`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/7/youtube-revanced-extended-v20.21.37-arm64-v8a.apk) | - |  
-| **YouTube Music**<br/><sup>`8.31.51` `extended`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/7/youtube-music-revanced-extended-v8.31.51-arm64-v8a.apk) | - |  
-| **Spotify**<br/><sup>`9.0.76.1115`</sup> | [**APK**<br/><sup>universal</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/7/spotify-revanced-v9.0.76.1115-all.apk) | - |  
+| **YouTube**<br/><sup>`20.21.37` `extended`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/8/youtube-revanced-extended-v20.21.37-arm64-v8a.apk) | - |  
+| **YouTube Music**<br/><sup>`8.31.51` `extended`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/8/youtube-music-revanced-extended-v8.31.51-arm64-v8a.apk) | - |  
+| **Spotify**<br/><sup>`9.0.76.1115`</sup> | [**APK**<br/><sup>universal</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/8/spotify-revanced-v9.0.76.1115-all.apk) | - |  
 
 ## 📌 Notes
   
@@ -21,8 +21,8 @@ Patches: anddea/patches-3.14.0.rvp
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.14.0)
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.41.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.41.0)  
+Patches: ReVanced/patches-5.42.1.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.42.1)  
 
 Unchanged:  
-Patches: ReVanced/patches-5.41.0.rvp    
+Patches: anddea/patches-3.14.0.rvp    
