@@ -3,6 +3,11 @@ parallel-jobs = 1
 rebuild-all-on-update = true
 remove-rv-integrations-checks = true
 compression-level = 9
+patches-version = "dev"
+cli-version = "dev
+riplib = true
+arch = "arm64-v8a"
+build-mode = "apk"
 
 [YouTube-Extended]
 app-name = "YouTube"
@@ -33,7 +38,8 @@ riplib = true
 version = "8.30.54"
 
 [Spotify]
+enabled = false
 build-mode = "apk"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
-version = "beta"
+version = "auto"
