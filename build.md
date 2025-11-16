@@ -2,8 +2,8 @@
   
 | App  | APK<br/><sup>Non-Root</sup> | Module<br/><sup>Root</sup> |  
 | :--- | :-------------------------- | :------------------------- |  
-| **YouTube**<br/><sup>`20.21.37`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/14/youtube-rvx-v20.21.37-arm64-v8a.apk) | - |  
-| **YouTube Music**<br/><sup>`8.30.54`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/14/youtube-music-rvx-v8.30.54-arm64-v8a.apk) | - |  
+| **YouTube**<br/><sup>`20.21.37`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/15/youtube-rvx-v20.21.37-arm64-v8a.apk) | - |  
+| **YouTube Music**<br/><sup>`8.30.54`</sup> | [**APK**<br/><sup>arm64-v8a</sup>](https://github.com/Ven0m0/revanced-apps/releases/download/15/youtube-music-rvx-v8.30.54-arm64-v8a.apk) | - |  
 
 ## 📌 Notes
   
@@ -16,7 +16,7 @@
 ## 🗒️ Changelog
   
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
-Patches: anddea/patches-3.15.0-dev.1.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.1)
+Patches: anddea/patches-3.15.0-dev.2.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.2)
 
 CLI: inotia00/revanced-cli-5.0.1-all.jar    
